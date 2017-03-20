@@ -1,11 +1,11 @@
-# Grupo: 
+## Grupo: 
   L1_6
   
-# Componentes:
-  1 Néstor Ibrahim Hernández Jorge
-  2 Nicolás Hernández González
-  3 David Pérez Rivero
+## Componentes:
+  - Néstor Ibrahim Hernández Jorge
+  - Nicolás Hernández González
+  - David Pérez Rivero
   
-# Tema:
+## Tema:
   Programación Dinámica: Algoritmo de Cálculo de Números Combinatorios.
  
